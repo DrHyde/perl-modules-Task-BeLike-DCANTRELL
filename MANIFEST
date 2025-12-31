@@ -1,0 +1,8 @@
+GPL2.txt
+ARTISTIC.txt
+MANIFEST
+t/use.t
+lib/Task/BeLike/DCANTRELL.pm
+Makefile.PL
+CHANGELOG
+MANIFEST.SKIP
