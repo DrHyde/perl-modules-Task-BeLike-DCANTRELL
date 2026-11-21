@@ -19,6 +19,7 @@ META_MERGE => {
 
 __DATA__
 Color::ANSI::Util
+String::Tagged::Terminal
 CPAN::DistnameInfo
 Data::Dumper::Concise
 Date::Roman
